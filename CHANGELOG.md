@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.0] - July 27, 2022
 
 - Initial release
+
+## [1.1.0] - July 27, 2022
+
+- Logo
