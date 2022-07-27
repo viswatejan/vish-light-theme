@@ -4,6 +4,6 @@ All notable changes to the "vish-light-theme" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.0] - July 27, 2022
 
 - Initial release
