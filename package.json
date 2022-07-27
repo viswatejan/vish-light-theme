@@ -3,6 +3,7 @@
     "displayName": "Vish Light Theme",
     "description": "Vish Light Theme",
     "version": "1.0.0",
+    "icon": "images/logo.png",
     "publisher": "viswatejan",
     "engines": {
         "vscode": "^1.69.0"
