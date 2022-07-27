@@ -1,0 +1,39 @@
+{
+    "name": "vish-light-theme",
+    "displayName": "Vish Light Theme",
+    "description": "Vish Light Theme",
+    "version": "1.0.0",
+    "publisher": "viswatejan",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Viswa Teja Nariboina"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/viswatejan/vish-light-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "light theme",
+        "vish",
+        "vish-light",
+        "vish light",
+        "vish-light-theme",
+        "vish light theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vish Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Vish Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
